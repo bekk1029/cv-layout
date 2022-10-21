@@ -1,0 +1,189 @@
+body{
+    margin: 20px 50px;
+    font-size: 0;
+}
+
+.nogoon{
+    display: inline-block;
+    width: 200px;
+    height: 802px;
+    border-top-left-radius: 20vw  ;
+    border-top-right-radius: 20vw;
+    background-color: rgb(0, 130, 60);
+    position: fixed;
+    
+}
+
+.zurag1{
+    position: absolute ;
+    margin-top: -20px;
+
+    
+}
+
+.shar{
+    display: inline-block;
+    width: 900px;
+    height: 1300px;
+    margin-left: 200px;
+    
+}
+
+.shar h1{
+    font-size: 50px;
+    margin: 10px;
+    background-position: center;
+    color: rgb(0, 20, 90  );
+    margin-left: 50px;
+}
+
+.shar h2{
+    font-size: 20px;
+    margin-top: 1px;
+    margin-left: 50px;
+    font-size: 50px;
+    color: rgb(0, 130, 60);
+    background-position: center;
+}
+
+.school h3{
+    margin-top: 50px;
+    margin-left:  50px; 
+    font-size: 40px;
+    color: rgb(0, 130, 60);
+}
+
+.school ul p{
+    margin-top: -40px;
+}
+
+.school ul{
+    margin-top: 50px; 
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+h2{
+    font-size: 20px;
+    margin: 25px;
+    margin-top: 120%;
+    background-position: center;
+    box-sizing: border-box;
+}
+
+p{
+    font-size: 20px;
+    margin: 10px 10px;
+    margin-top: 1px;
+    padding: 5px;
+    margin-left: 10px;
+    
+}
+
+h3{
+    font-size: 20px;
+    margin: 25px;
+    margin-top: 5%;
+    margin-left: 45px;
+    padding: 0%;
+    background-position: center;
+    box-sizing: border-box;
+    
+}
+
+.ur ul{
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.ur h2{
+    margin-top: 20px;
+}
+
+.turshlaga{
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 30px;
+    
+}
+
+.turshlaga h2{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.turshlaga1{
+    font-size: 20px;
+   display: inline-block;
+    
+    
+    margin-left: 90px;
+}
+
+.hreff a, a, a{
+    font-size: 20px;
+    margin-left: 35px;
+    color: #001;
+}
+
+.hreff{
+    margin-bottom: 30px;
+}
+
+.row{
+    margin-top: -20px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+    background-color: white;
+    font-size: 15px;
+    background-position: center;
+    text-align: center;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+
+td, th {
+    border: 1px solid #080404;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(169, 237, 143);
+}
+
+a:hover{
+    color:#fff  ;
+    cursor: auto;
+}
+
+h4{
+    font-size: 20px;
+    margin: 25px;
+    margin-top: 5%;
+    margin-left: 45px;
+    padding: 0%;
+    background-position: center;
+    box-sizing: border-box;
+}
+
+img{
+    z-index: 10;
+    height: 230px;
+    width: 230px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: -15px;
+    border-radius: 20vw;
+    border-style: solid;
+    border-color: rgb(96, 226, 120);
+    border-width: 20px;
+    box-sizing: border-box;
+    position: fixed;
+    padding: 10px;
+    
+}
